@@ -1,0 +1,3 @@
+saya tidak dapat memahami saat bapak memberikan feedback
+"banyak sekali kode yang salh peletakan yang mana diketikan di 
+luar dari tag php yang mana harusnya kan ada di dalam tag PHP!!!!!"
