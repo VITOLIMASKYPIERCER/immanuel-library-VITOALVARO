@@ -30,10 +30,14 @@
         <path d="M22 19v-1a3.5 3.5 0 0 0-2.5-3.36" />
         <path d="M15.5 4.14a3.5 3.5 0 0 1 0 6.72" />
       </svg> Pengguna</a>
+
     <a href="/pages/profile/edit.php"><svg class="icon" width="16" height="16" viewBox="0 0 24 24"
         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M19 19.5v-1a4.5 4.5 0 0 0-4.5-4.5h-5A4.5 4.5 0 0 0 5 18.5v1" />
         <circle cx="12" cy="7.5" r="4" />
+
       </svg> Profil Saya</a>
+      <a onclick="return confirm('Apakah anda yakin ingin logout dari aplikasi?')" href="../../actions/auth/logout.php"
+       style="border: 1px solid white; text-align: center; display:block; margin-top:10px;">Logout</a>
   </nav>
 </aside>
